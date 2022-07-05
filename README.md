@@ -1,9 +1,18 @@
 # GeoProcessamento
 Praticas com Python para manipulação de dados Geográficos, físicos e socioeconômicos;
 
-## Possiveis fontes: 
-    - https://geosemfronteiras.org/blog/bibliotecas-python-para-gis-e-mapeamento/#:~:text=As%20bibliotecas%20Python%20s%C3%A3o%20a%20extens%C3%A3o%20definitiva%20em,Existem%20mais%20de%20200%20bibliotecas%20padr%C3%A3o%20em%20Python.
+## Livros:
+
+* Introdução à Ciência da Geoinformação - http://www.dpi.inpe.br/gilberto/livro/introd/
+* Fundamentals of Remote Sensing - https://drive.google.com/file/d/1CPO4p2eZH841lZUiEmHo-41F3rRgD8K0/view?usp=sharing
 
 ## referências:
 
-* http://www.dpi.inpe.br/spring/portugues/tutorial/introducao_geo.html#:~:text=Sistema%20de%20geoprocessamento%20%C3%A9%20o%20destinado%20ao%20processamento,manipula%C3%A7%C3%A3o%20e%20an%C3%A1lise.%20O%20que%20%C3%A9%20um%20SIG%3F
+* Divisão de Processamento de Imagens (DPI) - http://www.dpi.inpe.br/DPI/
+* Projeto Spring - http://www.dpi.inpe.br/spring/portugues/index.html
+
+## Canais do Youtube:
+
+* Introdução a Geoprocessamento - https://www.youtube.com/watch?v=Lf-Y6G4LgtY&list=PLoABW7lXEcAj8mX7bWM4af5xBBGaBx3cb&ab_channel=GustavoHenrique
+* Agricultura de Precisão - https://www.youtube.com/watch?v=SngFNP0QLH4&list=PLoABW7lXEcAi587kLxCAh-GqHkXpZ1fYB&ab_channel=GustavoHenrique
+* ArcGis - https://www.youtube.com/watch?v=abq1uf8XwsE&list=PLvoZpdSbat5Lexu_PnOqAvKdYoZJYg_gP&ab_channel=IsadoraParada-dan%C3%A7a%2Cgeoprocessamentoenatureza 
