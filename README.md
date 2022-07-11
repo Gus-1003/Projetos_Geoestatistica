@@ -1,6 +1,10 @@
 # GeoProcessamento
 Praticas com Python para manipulação de dados Geográficos, físicos e socioeconômicos;
 
+## Meus Trabalhos e Pesquisas na Área:
+
+* VANT`s = https://docs.google.com/presentation/d/1Mi_BGJUPMD-peAaWyEBiewPnyaiGStTT/edit?usp=sharing&ouid=118045128905772493224&rtpof=true&sd=true
+
 ## Livros:
 
 * Introdução à Ciência da Geoinformação - http://www.dpi.inpe.br/gilberto/livro/introd/
